@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">비디오 앨범</string>
+    <string name="main_label">동영상 목록</string>
+    <string name="detail_video">동영상 재생</string>
+</resources>

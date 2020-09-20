@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="videos">
+        <item type="id" name="fountain_night">fountain_night</item>
+        <item type="id" name="creek_rock">creek_rock</item>
+        <item type="id" name="waterfall_street">waterfall_street</item>
+    </string-array>
+
+    <string name="title_fountain_night">밤의 분수대</string>
+    <string name="place_fountain_night">예술의 전당</string>
+
+    <string name="title_creek_rock">작은 계곡</string>
+    <string name="place_creek_rock">양평</string>
+
+    <string name="title_waterfall_street">길 위의 폭포</string>
+    <string name="place_waterfall_street">청계천</string>
+</resources>
